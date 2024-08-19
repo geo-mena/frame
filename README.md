@@ -6,7 +6,7 @@
 
 </p>
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://myframe.vercel.app/" target="_blank">
         Create (🚧)
     </a>
@@ -22,9 +22,9 @@
     <a href="#-license">
         License
     </a>
-</div>
+</div> -->
 
-</p>
+<!-- </p>
 
 ![GitHub stars](https://img.shields.io/github/stars/pheralb/frame)
 ![GitHub issues](https://img.shields.io/github/issues/pheralb/frame)
@@ -32,7 +32,7 @@
 ![GitHub license](https://img.shields.io/github/license/pheralb/frame)
 [![Required Node.JS >=16.0.0](https://img.shields.io/static/v1?label=node&message=%20%3E=16.0.0&logo=node.js&color=3f893e)](https://nodejs.org/about/releases)
 
-</div>
+</div> -->
 
 ## ⚙️ Stack
 
@@ -98,10 +98,10 @@ ultra dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result 🚀.
 
-## ☁️ Deploy
+<!-- ## ☁️ Deploy
 
 - [https://myframe.vercel.app/](https://myframe.vercel.app/).
 
 ## 📄 License
 
-- [MIT License](https://github.com/pheralb/frame/blob/main/LICENSE).
+- [MIT License](https://github.com/pheralb/frame/blob/main/LICENSE). -->
