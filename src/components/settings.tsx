@@ -120,7 +120,7 @@ const SettingsDialog = () => {
             <Star height={14} className="text-red-400" />
             <span className="text-neutral-500">Built by</span>
             <ExternalLink
-              href="https://github.com/geo-mena"
+              href="https://www.linkedin.com/in/geovannimena/"
               underline={true}
               arrow={true}
               className="text-neutral-700"
