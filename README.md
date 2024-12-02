@@ -70,7 +70,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 1. Clone or [fork](https://github.com/pheralb/frame/fork) the repository:
 
 ```bash
-git@github.com:pheralb/frame.git
+git@github.com:geo-mena/frame.git
 ```
 
 2. Install dependencies:
@@ -105,4 +105,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## 📄 License
 
-- [MIT License](https://github.com/pheralb/frame/blob/main/LICENSE). -->
+- [MIT License](https://github.com/geo-mena/frame/blob/main/LICENSE). -->
