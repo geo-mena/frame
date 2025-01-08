@@ -101,8 +101,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 <!-- ## ☁️ Deploy
 
-- [https://myframe.vercel.app/](https://myframe.vercel.app/).
+- [https://myframe.vercel.app/](https://myframe.vercel.app/).  -->
 
 ## 📄 License
 
-- [MIT License](https://github.com/geo-mena/frame/blob/main/LICENSE). -->
+- [MIT License](https://github.com/geo-mena/frame/blob/main/LICENSE).
